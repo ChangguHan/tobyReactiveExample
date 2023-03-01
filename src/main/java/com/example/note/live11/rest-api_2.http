@@ -1,0 +1,28 @@
+GET http://localhost:8015/
+Accept: application/json
+
+###
+GET http://localhost:8015/2
+Accept: application/json
+
+###
+GET http://localhost:8015/3
+Accept: application/json
+
+###
+GET http://localhost:8015/4
+Accept: application/json
+
+###
+GET http://localhost:8015/event/1
+Accept: application/json
+
+###
+GET http://localhost:8015/events
+Accept: application/json
+
+###
+GET http://localhost:8015/events/1
+
+###
+GET http://localhost:8015/events/2
